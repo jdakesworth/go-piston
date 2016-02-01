@@ -1,5 +1,5 @@
 package main
 import "fmt"
 func main() {
- fmt.Printf("Hello World725")
+ fmt.Printf("Hello World726")
 }
